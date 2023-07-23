@@ -1,6 +1,6 @@
 Welcome to the Probably Library!
 
-Here you will find basic functions for probablity. This will be updated as time goes on. 
+Here you will find basic functions for probablity. I plan on packaging this and adding to PyPi. This will be updated as time goes on. 
 
 
 The functions provided are below:
