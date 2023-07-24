@@ -29,7 +29,7 @@ def joint_probability(probability_event1, probability_event2, *args):
     Calculates the joint probability of two or more independent events occurring.
 
     Parameters:
-    probability_event1, probability_event2, ... (float): Probabilities of individual events.
+    probability_event1, probability_event2, *args (float): Probabilities of individual events.
 
     Returns:
     float: The joint probability of all events occurring.
@@ -57,7 +57,7 @@ def addition_rule_disjoint(probability_event1, probability_event2, *args):
     Calculates the probability of the union of two or more disjoint events.
 
     Parameters:
-    probability_event1, probability_event2, ... (float): Probabilities of individual events.
+    probability_event1, probability_event2, *args (float): Probabilities of individual events.
 
     Returns:
     float: The probability of the union of all disjoint events.
@@ -69,7 +69,7 @@ def addition_rule_non_disjoint(probability_event1, probability_event2, *args, pr
     Calculates the probability of the union of two or more non-disjoint events using the inclusion-exclusion principle.
 
     Parameters:
-    probability_event1, probability_event2, ... (float): Probabilities of individual events.
+    probability_event1, probability_event2, *args (float): Probabilities of individual events.
     probability_intersection (float): Probability of the intersection of all events.
 
     Returns:
