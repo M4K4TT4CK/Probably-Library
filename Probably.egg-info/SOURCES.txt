@@ -1,8 +1,0 @@
-README.md
-setup.py
-Probably/__init__.py
-Probably/myfunctions.py
-Probably.egg-info/PKG-INFO
-Probably.egg-info/SOURCES.txt
-Probably.egg-info/dependency_links.txt
-Probably.egg-info/top_level.txt
