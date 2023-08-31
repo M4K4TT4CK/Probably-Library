@@ -1,0 +1,8 @@
+README.md
+setup.py
+isItLikely/__init__.py
+isItLikely/myfunctions.py
+isItLikely.egg-info/PKG-INFO
+isItLikely.egg-info/SOURCES.txt
+isItLikely.egg-info/dependency_links.txt
+isItLikely.egg-info/top_level.txt
