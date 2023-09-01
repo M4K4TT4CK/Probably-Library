@@ -2,6 +2,8 @@ Welcome to the isItLikely Library!
 
 Here you will find basic functions for probablity. I plan on packaging this and adding to PyPi. This will be updated as time goes on. 
 
+This library is published on Pypi - pip install isItLikely==0.1.0
+
 
 The functions provided are below:
 
