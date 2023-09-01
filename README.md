@@ -1,6 +1,6 @@
 Welcome to the isItLikely Library!
 
-Here you will find basic functions for probablity. I plan on packaging this and adding to PyPi. This will be updated as time goes on. 
+Here you will find basic functions for probability. This will be updated as time goes on. 
 
 This library is published on Pypi: 
     
